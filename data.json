@@ -1,0 +1,110 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "80.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "https://img.freepik.com/free-photo/top-view-set-ice-cream-cones-with-chocolate_23-2148425392.jpg",
+            "nama": "Ice Cream",
+            "size": "100 Gram",
+            "harga": "10.000",
+            "link": "https://www.google.com/search?q=ice+cream+cone&tbm=shop"
+        },
+        {
+            "nama": "Es Teh Manis",
+            "size": "100 ml",
+            "harga": "14.000",
+            "link": "#",
+            "foto": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2023/09/18/minum-es-teh-manisjpg-20230918081102.jpg"
+        },
+        {
+            "nama": "Lychee Tea",
+            "size": "100 ml",
+            "harga": "14.000",
+            "link": "#",
+            "foto": "https://dcostseafood.id/wp-content/uploads/2021/12/LYCHEE-TEA.jpg"
+        }
+    ],
+    "makanan": [
+        {
+            "nama": "Tahu Goreng",
+            "size": "Besar",
+            "harga": "20.000",
+            "link": "#",
+            "foto": "https://cdn1-production-images-kly.akamaized.net/csFeGBYbnzz8llvYCZ4PsVwfrPs=/0x0:5616x3165/680x383/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2901423/original/005536300_1567581573-tips_tahu_HL.jpg"
+        },
+        {
+            "nama": "Pecel Lele",
+            "size": "Besar",
+            "harga": "32.000",
+            "link": "#",
+            "foto": "https://img.kurio.network/ZnAkxKtekVZY-M7OO02gfYz5sqE=/320x320/filters:quality(80)/https://kurio-img.kurioapps.com/20/11/21/b2aecfb2-fefd-415f-9424-2485a95d41ef.png"
+        },
+        {
+            "nama": "Ketoprak",
+            "size": "Besar",
+            "harga": "22.000",
+            "link": "#",
+            "foto": "https://asset.kompas.com/crops/BiN_oCxCDgkO09b1B_FPfZuvGBw=/0x0:739x493/750x500/data/photo/2020/01/29/5e318845429db.jpg"
+        }
+    ],
+    "eskrim": [
+        {
+            "nama": "Es Krim Walls",
+            "size": "Besar",
+            "harga": "22.000",
+            "link": "#",
+            "foto": "https://assets.unileversolutions.com/v1/2189390.png?im=AspectCrop=(270,270);Resize=(270,270)"
+        },
+        {
+            "nama": "Es Krim Aice Coklat",
+            "size": "100 ml",
+            "harga": "21.000",
+            "link": "#",
+            "foto": "https://assets.klikindomaret.com/products/20092989/20092989_1.JPG"
+        },
+        {
+            "nama": "Es Krim Cornetto",
+            "size": "Biasa",
+            "harga": "10.000",
+            "link": "#",
+            "foto": "https://assets.unileversolutions.com/v1/37511976.png?im=AspectCrop=(270,270);Resize=(270,270)"
+        }
+    ]
+}
